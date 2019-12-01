@@ -1,3 +1,3 @@
 import execute from './executer';
-export default execute;
+export = execute;
 //# sourceMappingURL=index.d.ts.map

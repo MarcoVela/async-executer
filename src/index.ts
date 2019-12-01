@@ -1,2 +1,2 @@
 import execute from './executer';
-export default execute;
+export = execute;
