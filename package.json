@@ -1,0 +1,36 @@
+{
+  "name": "async-executer",
+  "version": "1.0.0",
+  "description": "Asynchronous function executer on iterator results with optional timeout between calls.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  },
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoVela/async-executer.git"
+  },
+  "keywords": [
+    "Asynchronous",
+    "executer",
+    "function",
+    "caller"
+  ],
+  "author": {
+    "name": "Marco Vela",
+    "email": "mvelar@uni.pe",
+    "url": ""
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcoVela/async-executer/issues"
+  },
+  "homepage": "https://github.com/MarcoVela/async-executer#readme"
+}
