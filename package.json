@@ -1,6 +1,6 @@
 {
   "name": "async-executer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Asynchronous function executer on iterator results with optional timeout between calls.",
   "main": "index.js",
   "directories": {
