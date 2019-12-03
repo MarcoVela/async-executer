@@ -20,7 +20,9 @@
   "keywords": [
     "asynchronous",
     "executer",
-    "function caller"
+    "function caller",
+    "function",
+    "caller"
   ],
   "author": {
     "name": "Marco Vela",
