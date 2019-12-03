@@ -1,7 +1,7 @@
 {
   "name": "async-executer",
   "version": "1.0.1",
-  "description": "Asynchronous function executer on iterator results with optional timeout between calls.",
+  "description": "Module that executes a function asynchronously using parameters given by an iterator with optional timeout between calls.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -18,10 +18,9 @@
     "url": "git+https://github.com/MarcoVela/async-executer.git"
   },
   "keywords": [
-    "Asynchronous",
+    "asynchronous",
     "executer",
-    "function",
-    "caller"
+    "function caller"
   ],
   "author": {
     "name": "Marco Vela",
