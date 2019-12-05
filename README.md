@@ -2,8 +2,8 @@
 [![NPM version](https://img.shields.io/npm/v/async-executer.svg)](https://www.npmjs.com/package/async-excuter)
 [![Build Status](https://travis-ci.org/MarcoVela/async-executer.svg?branch=master)](https://travis-ci.org/MarcoVela/async-executer)
 
-Module that executes a function asynchronously with parameters given by an iterator, optional parameter timeout makes
-the function wait until the time indicated in the parameter has elapsed.
+Module that calls a function in sequence with parameters given by the result of an iterator, it accepts an optional
+parameter timeout in milliseconds that makes the chain sequence wait that amount of time between calls.
 
 ## Installing
 ### In Node.js

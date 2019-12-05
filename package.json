@@ -1,6 +1,6 @@
 {
   "name": "async-executer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Module that executes a function asynchronously using parameters given by an iterator with optional timeout between calls.",
   "main": "index.js",
   "directories": {

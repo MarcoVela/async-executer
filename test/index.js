@@ -44,13 +44,11 @@ function* g2 () {
     yield { a: 'a' };
 }
 
-
+const arr = [1, 'A', 'B', 2];
 
 execute(f1, g0(), 100)
     .then(() => execute(f2, g1()))
     .then(() => execute(f3, g1()))
     .then(() => execute(f4, g2()))
     .then(() => execute(f6, g2()))
-    .then(() => execute(f5, g2()));
-
-
+    .then(() => execute(f5, arr));
